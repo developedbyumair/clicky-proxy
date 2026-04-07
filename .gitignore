@@ -1,0 +1,21 @@
+# Secrets
+.env
+.env.*
+!.env.example
+backend/.env
+backend/.env.*
+!backend/.env.example
+keys-full.txt
+
+# Runtime / logs
+node_modules/
+*.log
+backend/backend.log
+backend/backend.pid
+
+# macOS
+.DS_Store
+
+# Local app artifacts (not for git)
+app/
+evidence/

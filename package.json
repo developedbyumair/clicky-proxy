@@ -1,0 +1,16 @@
+{
+  "name": "clicky-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Local Clicky proxy backend (chat + tts) powered by OpenAI.",
+  "scripts": {
+    "start": "node backend/server.mjs",
+    "dev": "node --watch backend/server.mjs",
+    "stack": "./scripts/run-local-stack.sh",
+    "health": "curl -sS http://127.0.0.1:8787/health"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
