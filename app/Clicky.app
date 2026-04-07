@@ -1,0 +1,1 @@
+/Users/umairali/Applications/Clicky.app

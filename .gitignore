@@ -16,6 +16,3 @@ backend/backend.pid
 # macOS
 .DS_Store
 
-# Local app artifacts (not for git)
-app/
-evidence/

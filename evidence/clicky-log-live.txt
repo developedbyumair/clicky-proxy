@@ -1,0 +1,102 @@
+Filtering the log data using "process == "Clicky""
+Timestamp               Ty Process[PID:TID]
+2026-04-07 14:01:14.746 A  Clicky[44367:134eb6f] (TCC) TCCAccessRequest() IPC
+2026-04-07 14:01:14.746 A  Clicky[44367:134eb6f] (TCC) TCCAccessRequest() IPC
+2026-04-07 14:01:15.934 Df Clicky[44367:1351450] [com.apple.coreaudio:aqme]            AQMEIO_HAL.cpp:2507  FetchAndLogFrameSize GetCurrentIOBufferFrameSize deviceID=72, frame size is 512
+2026-04-07 14:01:15.944 Df Clicky[44367:1351450] [com.apple.coreaudio:aqme]        MEMixerChannel.cpp:2269  mFormatID='lpcm', mNumChannels=1, mBestAvailableContentType=0, mContentspatializable=0, mSpatializationStatus=0, err=0
+2026-04-07 14:01:15.946 Df Clicky[44367:1351450] [com.apple.coreaudio:aqme]  MEDeviceStreamClient.cpp:471   AQME Default-Output: client stopping: <AudioQueueObject@0x12d01c800; [44367]; play>; running count now 0
+2026-04-07 14:01:15.968 Df Clicky[44367:134eb6f] [com.apple.coreaudio:auext]    AUOOPRenderPipePool.mm:184   Host destroying render pipe 198353022
+2026-04-07 14:01:15.972 Df Clicky[44367:134eb6f] [com.apple.coreaudio:AQ]      AudioQueueObject.cpp:554   ~AudioQueueObject: aq@0x12d01c800: Deleting
+2026-04-07 14:01:15.972 Df Clicky[44367:135144e] [com.apple.extensionkit:NSExtension] tearing down extension request EC9DE259-B41E-46A8-8DC7-0EFD4FACB28B to extension <EXConcreteExtension: 0x600000fe0840> {id = com.apple.ax.MauiTTSSupport.MauiAUSP} (last known pid 48426)
+2026-04-07 14:01:15.972 Df Clicky[44367:135144e] [com.apple.xpc:connection] [0x129a28180] invalidated because the current process cancelled the connection by calling xpc_connection_cancel()
+2026-04-07 14:01:15.972 Df Clicky[44367:135144e] [com.apple.xpc:connection] [0x1298071f0] invalidated because the current process cancelled the connection by calling xpc_connection_cancel()
+2026-04-07 14:01:15.972 Df Clicky[44367:135144e] [com.apple.xpc:connection] [0x129822990] invalidated because the current process cancelled the connection by calling xpc_connection_cancel()
+2026-04-07 14:01:15.973 Df Clicky[44367:135144f] [com.apple.PlugInKit:lifecycle] [u C3085F07-7E5B-5373-9EAC-CE22F79C87D2:m (null)] [<private>(<private>)] all extension sessions ended
+2026-04-07 14:01:15.973 Df Clicky[44367:135144f] [com.apple.xpc:connection] [0x129804080] invalidated because the current process cancelled the connection by calling xpc_connection_cancel()
+2026-04-07 14:01:15.974 Df Clicky[44367:1351450] [com.apple.PlugInKit:lifecycle] [u C3085F07-7E5B-5373-9EAC-CE22F79C87D2:m (null)] [<private>(<private>)] Emptying requests set
+2026-04-07 14:01:16.245 A  Clicky[44367:134eb6f] (TCC) TCCAccessRequest() IPC
+2026-04-07 14:01:16.245 A  Clicky[44367:134eb6f] (TCC) TCCAccessRequest() IPC
+2026-04-07 14:01:16.733 Df Clicky[44367:135112f] [com.apple.network:connection] [C17 15AC752D-0294-46E5-8B09-E3FB45B849BE IPv4#5ce353b9:443 quic-connection, url hash: 31cadbb9, tls, definite, attribution: developer] cancel
+2026-04-07 14:01:16.736 Df Clicky[44367:135112f] [com.apple.network:connection] [C17 15AC752D-0294-46E5-8B09-E3FB45B849BE IPv4#5ce353b9:443 quic-connection, url hash: 31cadbb9, tls, definite, attribution: developer] cancelled
+	[C17 E036126D-BDDE-4F82-A288-69F0BF7D706C 192.168.100.9:63159<->IPv4#5ce353b9:443]
+	Connected Path: satisfied (Path is satisfied), viable, interface: en0[802.11], ipv4, ipv6, dns, uses wifi
+	Duration: 181.215s, QUIC @0.000s took 0.000s, TLS 1.3 took 0.126s
+	bytes in/out: 210362/8709, packets in/out: 183/101, rtt: 0.102s, retransmitted bytes: 0, out-of-order bytes: 23259
+	ecn packets sent/acked/marked/lost: 0/0/0/0
+2026-04-07 14:01:16.736 Df Clicky[44367:135112f] [com.apple.network:connection] nw_flow_disconnected [C17 IPv4#5ce353b9:443 cancelled channel-flow ((null))] Output protocol disconnected
+2026-04-07 14:01:16.737 Df Clicky[44367:135112f] [com.apple.network:connection] nw_connection_report_state_with_handler_on_nw_queue [C17] reporting state cancelled
+2026-04-07 14:01:16.737 Df Clicky[44367:135112f] [com.apple.network:connection] nw_flow_disconnected [C16.1.1.1 IPv4#5ce353b9:443 ready channel-flow (satisfied (Path is satisfied), viable, interface: en0[802.11], ipv4, ipv6, dns, uses wifi)] Output protocol disconnected
+2026-04-07 14:01:16.737 Df Clicky[44367:135112f] [com.apple.network:boringssl] nw_protocol_boringssl_error(1909) [C17:1][0x129b1b650] Lower protocol stack error post TLS handshake. [60: <private>]
+2026-04-07 14:01:16.737 Df Clicky[44367:135112f] [com.apple.network:connection] nw_flow_disconnected [C16.1.1.1 IPv4#5ce353b9:443 ready channel-flow (satisfied (Path is satisfied), viable, interface: en0[802.11], ipv4, ipv6, dns, uses wifi)] Output protocol disconnected
+2026-04-07 14:01:16.737 E  Clicky[44367:135112f] [com.apple.network:connection] nw_read_request_report [C16] Receive failed with error "Operation timed out"
+2026-04-07 14:01:16.737 Df Clicky[44367:135112f] [com.apple.network:connection] nw_flow_disconnected [C16.1.1.1 IPv4#5ce353b9:443 ready channel-flow (satisfied (Path is satisfied), viable, interface: en0[802.11], ipv4, ipv6, dns, uses wifi)] Output protocol disconnected
+2026-04-07 14:01:16.737 E  Clicky[44367:135112f] [com.apple.network:connection] nw_read_request_report [C16] Receive failed with error "Operation timed out"
+2026-04-07 14:01:16.737 Df Clicky[44367:135112f] [com.apple.network:connection] nw_flow_disconnected [C16.1.1.1 IPv4#5ce353b9:443 ready channel-flow (satisfied (Path is satisfied), viable, interface: en0[802.11], ipv4, ipv6, dns, uses wifi)] Output protocol disconnected
+2026-04-07 14:01:16.737 Df Clicky[44367:135112f] [com.apple.network:connection] nw_flow_disconnected [C16.1.1.1 IPv4#5ce353b9:443 ready channel-flow (satisfied (Path is satisfied), viable, interface: en0[802.11], ipv4, ipv6, dns, uses wifi)] Output protocol disconnected
+2026-04-07 14:01:16.737 E  Clicky[44367:135112f] [com.apple.network:connection] nw_read_request_report [C16] Receive failed with error "Operation timed out"
+2026-04-07 14:01:16.737 Df Clicky[44367:135112f] [com.apple.network:connection] nw_flow_disconnected [C16.1.1.1 IPv4#5ce353b9:443 ready channel-flow (satisfied (Path is satisfied), viable, interface: en0[802.11], ipv4, ipv6, dns, uses wifi)] Output protocol disconnected
+2026-04-07 14:01:16.737 Df Clicky[44367:135112f] [com.apple.network:quic] quic_conn_log_summary [C16.1.1.1:2] [-019892d114d53a9c249b74d16fd41e9c24031194] 
+	Connection attempts: 1, RETRY received: no, PTOs: 0
+	Early data: no, Keep-alives sent/acknowledged: 0/0, ECN state: unsupported, L4S: disabled
+	RTT: base 102 ms, network 102 ms, latest 102 ms, minimum 102 ms, smoothed 102 ms (variance 29 ms)
+	Path MTU: 1280, minimum MSS: 1252
+	Migration events: 0, paths validated: 0
+	Inbound unidirectional/bidirectional streams: 4/0
+	Outbound unidirectional/bidirectional streams: 1/1
+	DATA_BLOCKED frames sent/received: 0/0
+	STREAM_DATA_BLOCKED frames sent/received: 0/0
+2026-04-07 14:01:16.739 Df Clicky[44367:135112f] [com.apple.network:connection] [C16.1.1.1 IPv4#5ce353b9:443 failed channel-flow (satisfied (Path is satisfied), viable, interface: en0[802.11], ipv4, ipv6, dns, uses wifi)] event: flow:disconnect @181.220s, error Operation timed out
+2026-04-07 14:01:16.739 Df Clicky[44367:135112f] [com.apple.network:connection] [C16.1.1 Hostname#907d7ae2:443 failed resolver (satisfied (Path is satisfied), interface: en0[802.11], ipv4, ipv6, dns, uses wifi)] event: flow:disconnect @181.220s
+2026-04-07 14:01:16.739 Df Clicky[44367:135112f] [com.apple.network:connection] [C16.1 Hostname#907d7ae2:443 failed transform (satisfied (Path is satisfied), interface: en0[802.11], ipv4, ipv6, dns, uses wifi)] event: flow:disconnect @181.220s
+2026-04-07 14:01:16.739 Df Clicky[44367:135112f] [com.apple.network:connection] [C16 IPv4#5ce353b9:443 failed parent-flow (satisfied (Path is satisfied), interface: en0[802.11], ipv4, ipv6, dns, uses wifi)] event: flow:disconnect @181.220s
+2026-04-07 14:01:16.739 Df Clicky[44367:135112f] [com.apple.network:connection] nw_connection_report_state_with_handler_on_nw_queue [C16] reporting state failed error Operation timed out
+2026-04-07 14:01:16.739 Df Clicky[44367:135112f] (CFNetwork) Connection 16: final read 1:60, complete[Y], final[Y]
+2026-04-07 14:01:16.740 Df Clicky[44367:135112f] (CFNetwork) Connection 16: cleaning up
+2026-04-07 14:01:16.740 Df Clicky[44367:135112f] [com.apple.network:connection] [C16 9935520C-4036-436D-8C12-6245A9971059 Hostname#907d7ae2:443 quic-connection, url hash: 31cadbb9, definite, attribution: developer] cancel
+2026-04-07 14:01:16.740 E  Clicky[44367:135112f] [com.apple.network:] nw_endpoint_flow_fillout_data_transfer_snapshot copy_info() returned NULL
+2026-04-07 14:01:16.740 Df Clicky[44367:135112f] [com.apple.network:connection] [C16 9935520C-4036-436D-8C12-6245A9971059 Hostname#907d7ae2:443 quic-connection, url hash: 31cadbb9, definite, attribution: developer] cancelled
+	[C16.1.1.1 E036126D-BDDE-4F82-A288-69F0BF7D706C 192.168.100.9:63159<->IPv4#5ce353b9:443]
+	Connected Path: satisfied (Path is satisfied), viable, interface: en0[802.11], ipv4, ipv6, dns, uses wifi
+	Privacy Stance: Not Eligible
+	Duration: 181.222s, DNS @0.000s took 0.001s, QUIC @0.002s took 0.126s
+	bytes in/out: 0/0, packets in/out: 0/0, rtt: 0.000s, retransmitted bytes: 0, out-of-order bytes: 0
+	ecn packets sent/acked/marked/lost: 0/0/0/0
+2026-04-07 14:01:16.740 Df Clicky[44367:135112f] [com.apple.network:connection] nw_connection_report_state_with_handler_on_nw_queue [C16] reporting state cancelled error Operation timed out
+2026-04-07 14:01:16.740 Df Clicky[44367:135112f] (CFNetwork) Connection 16: done
+2026-04-07 14:01:17.745 A  Clicky[44367:134eb6f] (TCC) TCCAccessRequest() IPC
+2026-04-07 14:01:17.746 A  Clicky[44367:134eb6f] (TCC) TCCAccessRequest() IPC
+2026-04-07 14:01:18.035 Df Clicky[44367:1351488] [com.apple.coreaudio:as_client]   AVAudioSession_MacOS.mm:2356  --> setPlayState Stopped Output {BuiltInSpeakerDevice, 0xb}
+2026-04-07 14:01:18.037 Df Clicky[44367:1351488] [com.apple.coreaudio:as_client]   AVAudioSession_MacOS.mm:981   Sent updated IOState to server: [0, 0]. BT device UIDS: {(
+)}
+2026-04-07 14:01:18.037 Df Clicky[44367:1351488] [com.apple.coreaudio:as_client]   AVAudioSession_MacOS.mm:2397  <-- setPlayState Server update was required.
+2026-04-07 14:01:19.246 A  Clicky[44367:134eb6f] (TCC) TCCAccessRequest() IPC
+2026-04-07 14:01:19.246 A  Clicky[44367:134eb6f] (TCC) TCCAccessRequest() IPC
+2026-04-07 14:01:20.281 A  Clicky[44367:134eb6f] (AppKit) trackMouse send action on mouseUp
+2026-04-07 14:01:20.281 A  Clicky[44367:134eb6f] (AppKit) sendAction:
+2026-04-07 14:01:20.282 Df Clicky[44367:134eb6f] [com.apple.AppKit:Window] order window front conditionally: 149f4 related: 0
+2026-04-07 14:01:20.282 Df Clicky[44367:134eb6f] [com.apple.AppKit:Window] order window: 149f4 op: 1 relative: 0 related: 0
+2026-04-07 14:01:20.282 Df Clicky[44367:134eb6f] [com.apple.SkyLight:default] New connection 0xae837 secondary
+2026-04-07 14:01:20.746 A  Clicky[44367:134eb6f] (TCC) TCCAccessRequest() IPC
+2026-04-07 14:01:20.746 A  Clicky[44367:134eb6f] (TCC) TCCAccessRequest() IPC
+2026-04-07 14:01:21.719 Df Clicky[44367:134eb6f] [com.apple.AppKit:Application] terminate:
+2026-04-07 14:01:21.719 Df Clicky[44367:134eb6f] [com.apple.AppKit:Application] Attempting sudden termination (1st attempt)
+2026-04-07 14:01:21.719 Df Clicky[44367:134eb6f] [com.apple.AppKit:Application] Checking whether app should terminate
+2026-04-07 14:01:21.719 Df Clicky[44367:134eb6f] [com.apple.AppKit:Application] Asking app delegate whether applicationShouldTerminate:
+2026-04-07 14:01:21.719 Df Clicky[44367:134eb6f] [com.apple.AppKit:Application] replyToApplicationShouldTerminate:YES
+2026-04-07 14:01:21.720 Df Clicky[44367:134eb6f] [com.apple.AppKit:Application] App termination approved
+2026-04-07 14:01:21.720 Df Clicky[44367:134eb6f] [com.apple.AppKit:Application] Termination commencing
+2026-04-07 14:01:21.720 Df Clicky[44367:134eb6f] [com.apple.AppKit:Application] Attempting sudden termination (2nd attempt)
+2026-04-07 14:01:21.728 Df Clicky[44367:134eb6f] [com.apple.AppKit:Window] order window: 149f3 op: 0 relative: 0 related: 0
+2026-04-07 14:01:21.731 Df Clicky[44367:134eb6f] [com.apple.AppKit:Window] window NSStatusBarWindow 149f2 finishing close
+2026-04-07 14:01:21.731 Df Clicky[44367:134eb6f] [com.apple.AppKit:Window] window Clicky.OverlayWindow 149f3 finishing close
+2026-04-07 14:01:21.732 Df Clicky[44367:134eb6f] [com.apple.AppKit:Window] window _TtC6ClickyP33_74FC1A5245F994F5304417FC9D27845E12KeyablePanel 149f4 finishing close
+2026-04-07 14:01:21.733 Df Clicky[44367:134eb6f] [com.apple.AppKit:Window] order window: 149f2 op: 0 relative: 0 related: 0
+2026-04-07 14:01:21.733 Df Clicky[44367:134eb6f] [com.apple.AppKit:Window] order window: 149f3 op: 0 relative: 0 related: 0
+2026-04-07 14:01:21.733 Df Clicky[44367:134eb6f] [com.apple.AppKit:Window] order window: 149f4 op: 0 relative: 0 related: 0
+2026-04-07 14:01:21.733 Df Clicky[44367:134eb6f] [com.apple.AppKit:Application] Termination complete. Exiting without sudden termination.
+2026-04-07 14:01:21.733 Df Clicky[44367:134eb6f] [com.apple.CoreAnalytics:client] Entering exit handler.
+2026-04-07 14:01:21.733 Df Clicky[44367:134eb6f] [com.apple.CoreAnalytics:client] Queueing exit procedure onto XPC queue. Any further messages sent will be discarded. activeSendTransactions=0
+2026-04-07 14:01:21.733 Df Clicky[44367:135112f] [com.apple.CoreAnalytics:client] Cancelling XPC connection. Any further reply handler invocations will not retry messages
+2026-04-07 14:01:21.733 Df Clicky[44367:135112f] [com.apple.xpc:connection] [0x6000005e4000] invalidated because the current process cancelled the connection by calling xpc_connection_cancel()
+2026-04-07 14:01:21.733 Df Clicky[44367:134eb6f] [com.apple.CoreAnalytics:client] Exiting exit handler.
+2026-04-07 14:01:21.734 Df Clicky[44367:1351450] [com.apple.CoreAnalytics:client] XPC connection invalidated (daemon unloaded/disabled)

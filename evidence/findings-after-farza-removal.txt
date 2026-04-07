@@ -1,0 +1,184 @@
+BuddyPCM16AudioConverter
+BuddyDictationManager
+BuddyPushToTalkShortcut
+BuddyDictationDraftCallbacks
+BuddyDictationStartSource
+BuddyDictationPermissionProblem
+BuddyStreamingTranscriptionSession
+BuddyTranscriptionProvider
+leanring_buddyApp
+BuddyNavigationMode
+$s6Clicky34BuddyStreamingTranscriptionSessionP
+$s6Clicky26BuddyTranscriptionProviderP
+buddyDictationManager
+_buddyNavigationMode
+_buddyFlightScale
+buddyDictationManager
+_TtC6Clicky24BuddyPCM16AudioConverter
+_TtC6Clicky21BuddyDictationManager
+com.learningbuddy.assemblyai.state
+com.learningbuddy.assemblyai.send
+Clicky/BuddyAudioConversionSupport.swift
+ BuddyDictationManager: start requested (
+ BuddyDictationManager: permissions missing or denied
+ BuddyDictationManager: start request superseded
+ BuddyDictationManager: failed to start recognition session (
+ BuddyDictationManager: recognition session started
+ BuddyDictationManager: start cancelled (shortcut released during session start)
+ BuddyDictationManager: start cancelled (shortcut released before recording began)
+ BuddyDictationManager: start cancelled (shortcut released during permission check)
+ BuddyDictationManager: requesting initial permissions
+ BuddyDictationManager: opening transcription provider 
+ BuddyDictationManager: provider ready, starting audio engine
+ Buddy dictation error (
+ BuddyDictationManager: stop requested (
+https://clicky-proxy.owner-0cb.workers.dev/chat
+Credits exhausted. Configure your own backend and API keys to continue.       
+https://clicky-proxy.owner-0cb.workers.dev/tts
+com.learningbuddy.hasPreviouslyConfirmedScreenRecordingPermission
+you're clicky, a small blue cursor buddy living on the user's screen. you're showing off during onboarding 
+Hi, I'm Buddy. This is Clicky.
+com.learningbuddy.openai.transcription
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/alpha_enc.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/alpha_processing.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/analysis_enc.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/backward_references_cost_enc.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/./ph_backward_references_enc.h
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/backward_references_enc.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/./ph_color_cache_utils.h
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/bit_writer_utils.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/color_cache_utils.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/cost.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/cost_sse2.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/dec.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/enc.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/filter_enc.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/filters.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/filters_sse2.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/frame_enc.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/histogram_enc.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/./././ph_backward_references_enc.h
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/huffman_encode_utils.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/lossless.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/lossless_enc.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/lossless_enc_sse2.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/lossless_enc_sse41.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/lossless_sse2.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/muxinternal.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/near_lossless_enc.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/palette.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/picture_csp_enc.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/picture_rescale_enc.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/predictor_enc.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/quant_enc.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/quant_levels_utils.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/rescaler.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/rescaler_sse2.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/rescaler_utils.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/sharpyuv.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/sharpyuv_csp.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/sharpyuv_dsp.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/sharpyuv_gamma.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/ssim.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/syntax_enc.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/./ph_utils.h
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/thread_utils.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/token_enc.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/upsampling.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/upsampling_sse2.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/upsampling_sse41.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/utils.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/vp8l_enc.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/webp_enc.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/yuv.c
+Learning Buddy
+BuddyPCM16AudioConverter
+BuddyDictationManager
+BuddyPushToTalkShortcut
+BuddyDictationDraftCallbacks
+BuddyDictationStartSource
+BuddyDictationPermissionProblem
+BuddyStreamingTranscriptionSession
+BuddyTranscriptionProvider
+leanring_buddyApp
+BuddyNavigationMode
+$s6Clicky34BuddyStreamingTranscriptionSessionP
+$s6Clicky26BuddyTranscriptionProviderP
+buddyDictationManager
+_buddyNavigationMode
+_buddyFlightScale
+buddyDictationManager
+_TtC6Clicky24BuddyPCM16AudioConverter
+_TtC6Clicky21BuddyDictationManager
+com.learningbuddy.assemblyai.state
+com.learningbuddy.assemblyai.send
+Clicky/BuddyAudioConversionSupport.swift
+ BuddyDictationManager: start requested (
+ BuddyDictationManager: permissions missing or denied
+ BuddyDictationManager: start request superseded
+ BuddyDictationManager: failed to start recognition session (
+ BuddyDictationManager: recognition session started
+ BuddyDictationManager: start cancelled (shortcut released during session start)
+ BuddyDictationManager: start cancelled (shortcut released before recording began)
+ BuddyDictationManager: start cancelled (shortcut released during permission check)
+ BuddyDictationManager: requesting initial permissions
+ BuddyDictationManager: opening transcription provider 
+ BuddyDictationManager: provider ready, starting audio engine
+ Buddy dictation error (
+ BuddyDictationManager: stop requested (
+https://clicky-proxy.owner-0cb.workers.dev/chat
+Credits exhausted. Configure your own backend and API keys to continue.       
+https://clicky-proxy.owner-0cb.workers.dev/tts
+com.learningbuddy.hasPreviouslyConfirmedScreenRecordingPermission
+you're clicky, a small blue cursor buddy living on the user's screen. you're showing off during onboarding 
+Hi, I'm Buddy. This is Clicky.
+com.learningbuddy.openai.transcription
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/alpha_enc.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/alpha_processing.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/analysis_enc.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/backward_references_cost_enc.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/./ph_backward_references_enc.h
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/backward_references_enc.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/./ph_color_cache_utils.h
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/bit_writer_utils.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/color_cache_utils.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/cost.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/cost_neon.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/dec.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/enc.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/filter_enc.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/filters.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/filters_neon.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/frame_enc.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/histogram_enc.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/./././ph_backward_references_enc.h
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/huffman_encode_utils.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/lossless.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/lossless_enc.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/muxinternal.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/near_lossless_enc.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/palette.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/picture_csp_enc.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/picture_rescale_enc.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/predictor_enc.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/quant_enc.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/quant_levels_utils.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/rescaler.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/rescaler_neon.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/rescaler_utils.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/sharpyuv.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/sharpyuv_csp.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/sharpyuv_dsp.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/sharpyuv_gamma.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/ssim.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/syntax_enc.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/./ph_utils.h
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/thread_utils.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/token_enc.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/upsampling.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/upsampling_neon.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/utils.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/vp8l_enc.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/webp_enc.c
+/Users/thorfinn/Library/Developer/Xcode/DerivedData/leanring-buddy-dikuuzguytdzzddulpdhygxkeofu/SourcePackages/checkouts/posthog-ios/vendor/libwebp/yuv.c
+Learning Buddy

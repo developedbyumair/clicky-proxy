@@ -1,0 +1,28 @@
+ClaudeAPI
+$__lazy_storage_$_claudeAPI
+$__lazy_storage_$_claudeAPI
+_TtC6Clicky9ClaudeAPI
+AssemblyAI is not configured. Add AssemblyAIAPIKey or AssemblyAIStreamingToken to Info.plist.
+wss://streaming.assemblyai.com/v3/ws
+AssemblyAIStreamingToken
+Clicky/ClaudeAPI.swift
+https://clicky-proxy.farza-0cb.workers.dev/chat
+I'm all out of credits. Please DM Farza and tell him to bring me back to life.
+https://clicky-proxy.farza-0cb.workers.dev/tts
+Hi, I'm Farza. This is Clicky.
+OpenAI transcription is not configured. Add OpenAIAPIKey to Info.plist.
+https://api.openai.com/v1/audio/transcriptions
+ClaudeAPI
+$__lazy_storage_$_claudeAPI
+$__lazy_storage_$_claudeAPI
+_TtC6Clicky9ClaudeAPI
+AssemblyAI is not configured. Add AssemblyAIAPIKey or AssemblyAIStreamingToken to Info.plist.
+wss://streaming.assemblyai.com/v3/ws
+AssemblyAIStreamingToken
+Clicky/ClaudeAPI.swift
+https://clicky-proxy.farza-0cb.workers.dev/chat
+I'm all out of credits. Please DM Farza and tell him to bring me back to life.
+https://clicky-proxy.farza-0cb.workers.dev/tts
+Hi, I'm Farza. This is Clicky.
+OpenAI transcription is not configured. Add OpenAIAPIKey to Info.plist.
+https://api.openai.com/v1/audio/transcriptions
